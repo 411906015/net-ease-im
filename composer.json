@@ -1,5 +1,5 @@
 {
-  "name": "hyperf/net-ease-im",
+  "name": "hyperf-ls/net-ease-im",
   "description": " 网易云信 IM PHP SDK,hyperf特供版",
   "type": "library",
   "license": "MIT",
